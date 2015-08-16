@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "3f8c61c278343439ebe1746a4c598db8",
+    "packages": [
+        {
+            "name": "nyholm/zebra-image",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Nyholm/ZebraImage.git",
+                "reference": "50cb3cb8c3c3b487554e2f5a448a57982b66d9ed"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nyholm/ZebraImage/zipball/50cb3cb8c3c3b487554e2f5a448a57982b66d9ed",
+                "reference": "50cb3cb8c3c3b487554e2f5a448a57982b66d9ed",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Nyholm\\ZebraImage": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL"
+            ],
+            "authors": [
+                {
+                    "name": "Tobias Nyholm",
+                    "email": "tobias.nyholm@gmail.com",
+                    "homepage": "http://www.tnyholm.se/"
+                }
+            ],
+            "description": "The ZebraImage PHP library in a nice package.",
+            "homepage": "http://www.tnyholm.se",
+            "keywords": [
+                "Zebra Image",
+                "ZebraImage"
+            ],
+            "time": "2013-05-27 08:14:25"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.2"
+    },
+    "platform-dev": []
+}

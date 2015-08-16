@@ -1,0 +1,22 @@
+{
+    "name": "nyholm/zebra-image",
+    "type": "library",
+    "description": "The ZebraImage PHP library in a nice package.",
+    "keywords": ["Zebra Image", "ZebraImage"],
+    "homepage": "http://www.tnyholm.se",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Tobias Nyholm",
+            "email": "tobias.nyholm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2"
+    },
+   
+    "autoload": {
+        "psr-0": { "Nyholm\\ZebraImage": "src" }
+    }
+}
