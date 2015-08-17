@@ -1,0 +1,9 @@
+Example for the first part of the Laravel 5.1 presentation
+https://slides.com/cesareduardosuarez/laravel-5-1/
+@cesarlarsson
+____________________________________________________
+
+This example illustrate how to manage require libraries in a project using composer and how to autoload our own clases 
+with PSR-4 standard
+
+http://www.php-fig.org/psr/psr-4/
